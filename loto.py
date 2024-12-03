@@ -1,4 +1,4 @@
-#prueba
+#prueba d
 class Participante:
     def __init__(self, nombre, saldo, numero_apuestas, apuestas_ganadas, apuestas_perdidas, indice_acierto):
         self.nombre = nombre
